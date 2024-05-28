@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Pamgrc
+- 👀 I’m interested in logistics, sports, and security
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on open-source logistics and security projects
+- 📫 How to reach me: pamegarcia.sv@gmail.com
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I love urban art and cats!
